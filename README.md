@@ -1,2 +1,2 @@
-# NESqVics-YABloChko
-Yet Another Breakout Clone
+# NESqVics Godot Metroidvania
+Tutorial series' sourcecode
